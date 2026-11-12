@@ -1,0 +1,14 @@
+{
+  "name": "hebrew-arabic-guards",
+  "version": "0.1.0",
+  "description": "Dependency-free guards for LLM output in Hebrew and Arabic: language leaks, prompt leaks, mojibake, Arabic/Hebrew word matching, name cleaning.",
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "files": ["src", "index.d.ts"],
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "keywords": ["hebrew", "arabic", "rtl", "llm", "chatbot", "guardrails", "whatsapp", "unicode", "nlp"],
+  "author": "Ido Guy",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/123idog/hebrew-arabic-guards.git" }
+}
