@@ -125,6 +125,6 @@ The tests use Node's built-in runner and cover every case above. All test data i
 
 ## Author
 
-**Ido Guy**, AI Engineer, building native-quality customer-facing AI in Hebrew and Arabic. [LinkedIn](https://www.linkedin.com/in/ido-guy)
+**Ido Guy**, AI & Automation Engineer. I design end-to-end AI solutions for sales and operations teams, including AI that runs in Hebrew and Arabic. [LinkedIn](https://www.linkedin.com/in/ido-guy)
 
 MIT License.
