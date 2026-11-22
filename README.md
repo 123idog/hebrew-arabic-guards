@@ -8,7 +8,7 @@
 
 Run one check before your chatbot sends a reply, and it won't send a customer English that leaked into a Hebrew answer, internal instructions from the prompt, `???` from a broken encoding, or an unrendered `{{first_name}}`. Also included: whole-word matching that works in Arabic and Hebrew (JavaScript's `\b` doesn't), and name cleaning that keeps every script but drops emoji.
 
-Every check here comes from a failure I saw in production chatbots. The background is in [LLMs for Hebrew and Arabic in Production](https://github.com/123idog/llm-for-hebrew-and-arabic).
+Every check here comes from a failure I saw in production chatbots.
 
 ---
 
